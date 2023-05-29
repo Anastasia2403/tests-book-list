@@ -1,0 +1,124 @@
+{
+  "books": [
+    {
+      "id": 7,
+      "bookTitle": "Book8",
+      "authorName": "Author 3",
+      "category": "Categor000",
+      "isbn": 1234567892,
+      "createdAt": "29 May 2023, 3:22PM",
+      "modifiedEditedAt": "29 May 2023, 10:25PM",
+      "active": true
+    },
+    {
+      "id": 5,
+      "bookTitle": "Book 5",
+      "authorName": "Author 5",
+      "category": "Category 3",
+      "isbn": 1234567894,
+      "createdAt": "29 May 2023, 3:22PM",
+      "modifiedEditedAt": "",
+      "active": false
+    },
+    {
+      "id": 804794,
+      "bookTitle": "assdf",
+      "authorName": "adfs",
+      "category": "ADSF",
+      "isbn": 5555,
+      "active": false,
+      "createdAt": "29 May 2023, 3:22PM",
+      "modifiedEditedAt": "29 May 2023, 8:07PM"
+    },
+    {
+      "id": 912173,
+      "bookTitle": "GHJJK",
+      "authorName": "HJ.,",
+      "category": "HJM,.",
+      "isbn": 1000,
+      "active": true,
+      "createdAt": "29 May 2023, 3:24PM",
+      "modifiedEditedAt": "29 May 2023, 3:24PM"
+    },
+    {
+      "id": 936265,
+      "bookTitle": "FFF",
+      "authorName": "GGG",
+      "category": "FF",
+      "isbn": 1001,
+      "active": true,
+      "createdAt": "29 May 2023, 3:28PM",
+      "modifiedEditedAt": "29 May 2023, 8:44PM"
+    },
+    {
+      "id": 309564,
+      "bookTitle": "GHJJK",
+      "authorName": "fesgerethy",
+      "category": "esrtd",
+      "isbn": 5555,
+      "active": true,
+      "createdAt": "29 May 2023, 3:42PM",
+      "modifiedEditedAt": "29 May 2023, 9:07PM"
+    },
+    {
+      "id": 242762,
+      "bookTitle": "GHJJK",
+      "authorName": "adfs",
+      "category": "ADSF",
+      "isbn": 100009,
+      "active": true,
+      "createdAt": "29 May 2023, 3:46PM",
+      "modifiedEditedAt": "29 May 2023, 9:05PM"
+    },
+    {
+      "id": 773231,
+      "bookTitle": "GHJJK",
+      "authorName": "GGGG",
+      "category": "ffffff",
+      "isbn": 100000,
+      "active": true,
+      "createdAt": "29 May 2023, 7:25PM",
+      "modifiedEditedAt": "29 May 2023, 7:25PM"
+    },
+    {
+      "id": 615654,
+      "bookTitle": "Book 3",
+      "authorName": "kkkk",
+      "category": "jkjj",
+      "isbn": 4446,
+      "active": false,
+      "createdAt": "29 May 2023, 8:24PM",
+      "modifiedEditedAt": "29 May 2023, 9:05PM"
+    },
+    {
+      "id": 236989,
+      "bookTitle": "wwdsfdf",
+      "authorName": "GGGG",
+      "category": "ADSF",
+      "isbn": 1234567892,
+      "active": true,
+      "createdAt": "29 May 2023, 8:32PM",
+      "modifiedEditedAt": ""
+    },
+    {
+      "id": 798833,
+      "bookTitle": "hjhh",
+      "authorName": "Author 3",
+      "category": "ADSF",
+      "isbn": 1234567890,
+      "active": true,
+      "createdAt": "29 May 2023, 8:44PM",
+      "modifiedEditedAt": ""
+    },
+    {
+      "id": 570498,
+      "bookTitle": "GHJJK",
+      "authorName": "GGGGшшшш",
+      "category": "ADSF",
+      "isbn": 1234567892,
+      "active": true,
+      "createdAt": "29 May 2023, 9:11PM",
+      "modifiedEditedAt": "29 May 2023, 9:12PM"
+    }
+  ]
+}
